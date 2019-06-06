@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>591433072229-qog3acvvgem4isrjfskpg06b98s670r3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.591433072229-qog3acvvgem4isrjfskpg06b98s670r3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDM6Wsw5lI_1iycyMcv5nHfgeHwfKSLcs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>591433072229</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>iglab.mobile.healingpresent</string>
+	<key>PROJECT_ID</key>
+	<string>boabab-24f46</string>
+	<key>STORAGE_BUCKET</key>
+	<string>boabab-24f46.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:591433072229:ios:a57342a3e3be9645</string>
+	<key>DATABASE_URL</key>
+	<string>https://boabab-24f46.firebaseio.com</string>
+</dict>
+</plist>

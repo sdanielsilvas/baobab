@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591433072229",
+    "firebase_url": "https://boabab-24f46.firebaseio.com",
+    "project_id": "boabab-24f46",
+    "storage_bucket": "boabab-24f46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591433072229:android:ce690aa9774bf0d0",
+        "android_client_info": {
+          "package_name": "iglab.mobile.baobabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591433072229-0qbm9v142aecb70srgbbi7ulqjj04g7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHkJ5mJXtR5r_Zv0HJwGw8Cb2toLFo6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
